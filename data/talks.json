@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the latest features and upcoming changes in the JavaScript language."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express."
+  },
+  {
+    "title": "CSS Grid and Flexbox for Modern Layouts",
+    "speakers": ["Alice Johnson"],
+    "category": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive web layouts with ease."
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["Bob Williams", "Charlie Brown"],
+    "category": ["Machine Learning", "JavaScript", "TensorFlow"],
+    "duration": 60,
+    "description": "Get started with machine learning in the browser using TensorFlow.js."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["David Miller"],
+    "category": ["Debugging", "Tools"],
+    "duration": 60,
+    "description": "Learn effective debugging techniques and tools to quickly find and fix bugs in your code."
+  },
+  {
+    "title": "WebAssembly: The Next Frontier",
+    "speakers": ["Eve Davis"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": 60,
+    "description": "An introduction to WebAssembly and how it can be used to run high-performance code in the browser."
+  }
+]
